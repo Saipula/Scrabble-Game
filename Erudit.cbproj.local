@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.791,C:\Users\Персик\Documents\Курсачи\Ерудит\class.h=C:\Users\Персик\Documents\Курсачи\Ерудит\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.591,=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,C:\Users\Персик\Documents\Курсачи\Ерудит\main.h=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,C:\Users\Персик\Documents\Курсачи\Ерудит\Project1PCH1.h=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.907,=C:\Users\Персик\Documents\Курсачи\Ерудит\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,C:\Users\Персик\Documents\Курсачи\Ерудит\EruditPCH1.h=C:\Users\Персик\Documents\Курсачи\Ерудит\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,C:\Users\Персик\Documents\Курсачи\Ерудит\main.dfm=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,C:\Users\Персик\Documents\Курсачи\Ерудит\Erudit.cbproj=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,C:\Users\Персик\Documents\Курсачи\Ерудит\class.cpp=C:\Users\Персик\Documents\Курсачи\Ерудит\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,C:\Users\Персик\Documents\Курсачи\Ерудит\main.cpp=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
